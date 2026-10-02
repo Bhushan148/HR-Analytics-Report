@@ -6,10 +6,6 @@ The project uses a synthetic workforce dataset and follows a realistic BI workfl
 
 **Live Power BI Report:** [View Interactive Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiNWVmYjhkNDYtYmJjNS00MDA5LTkwOWMtOTZiZDMyNjRhNTEyIiwidCI6ImQ4ZTFiMDVlLTcwYWEtNGVmNy1iODc4LTQ2NmI2ODhmOTUyZiJ9)
 
-**GitHub Repository:** [hr-analytics-github](https://github.com/Bhushan148/hr-analytics-github)
-
-> The public report is shared for portfolio demonstration only. All employee and workforce data in this project is synthetic.
-
 ---
 
 ## Project Overview
