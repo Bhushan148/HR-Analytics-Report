@@ -1,4 +1,4 @@
-# Consulting Workforce & HR Analytics | Power BI
+# Workforce & HR Analytics | Power BI
 
 A Power BI portfolio project focused on **workforce analytics, resource utilization, bench management, talent movement, engagement, performance, and attrition** in a consulting / professional-services environment.
 
