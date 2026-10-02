@@ -1,0 +1,26 @@
+# Power BI local settings & cache (machine-specific)
+**/.pbi/
+**/*.abf
+
+# Power BI project — kept private, local only
+*.pbix
+*.pbip
+HR Analytics.Report/
+HR Analytics.SemanticModel/
+
+# HTML report — kept private, local only
+report/
+
+# Generated full-setup data dump (rebuild from 01-05 scripts via 00_run_all.sql)
+sql-scripts/HRAnalytics_Full_Setup.sql
+
+# Editor settings
+.vscode/
+
+# Personal notes — keep local only
+docs/interview-prep.md
+docs/interview-answer-style-guide.md
+docs/requirements.md
+
+# Duplicate of the report background in StaticResources
+assets/Home Page for report.jpg
